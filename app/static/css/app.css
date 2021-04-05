@@ -5,3 +5,17 @@ body {
 footer  {
     padding-top: 20px;
 }
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-body {
+    flex-basis: 25%;
+}
+
+.card-img {
+    width: 40px;
+    height: auto;
+}
